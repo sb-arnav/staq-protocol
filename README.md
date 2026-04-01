@@ -1,0 +1,1 @@
+# Staq Credential Protocol
