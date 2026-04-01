@@ -253,11 +253,11 @@
         fill.style.width = (current / 1000 * 100) + '%';
       }, 30);
 
-      var savings = Math.round((SCORE / 1000) * 55);
+      var savings = 55;
       document.getElementById('yourCollateral').textContent = (150 - savings) + '%';
       var badge = document.getElementById('savingsBadge');
       badge.style.display = 'inline-flex';
-      document.getElementById('savingsText').textContent = 'You save ' + savings + '% collateral with verified credentials';
+      document.getElementById('savingsText').textContent = 'You save 55% collateral because of your verified financial knowledge';
     });
   </script>
 </body>
