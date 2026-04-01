@@ -176,18 +176,18 @@ Calculated client-side by reading all credential PDAs for a wallet.
 
 ## Deliverables
 
-### By April 8 (original deadline):
+### Phase 1 — Core (in progress):
 - [x] Staking escrow (stake, resolve_pass, resolve_fail)
 - [x] Issuer registry (register_issuer, deactivate_issuer)
 - [x] Credential registration (register_credential)
 - [ ] Deploy to devnet + share Program ID and IDL
 
-### By April 15 (new scope):
+### Phase 2 — Access Layer:
 - [ ] `request_access` instruction with reciprocal write enforcement
 - [ ] `consent_record` PDA
 - [ ] `revoke_access` instruction
 - [ ] Updated IDL for SDK integration
 
-### By May 4:
+### Phase 3 — Polish:
 - [ ] Edge cases, testing, mainnet readiness
 - [ ] Demo script for pitch video
