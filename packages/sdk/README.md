@@ -1,6 +1,6 @@
-# @staq/credentials
+# @glurk/sdk
 
-Issue and verify non-transferable credentials on Solana. The open credential protocol for skills, education, and identity.
+The identity protocol for the internet. Apps trade data. Users own everything. Built on Solana.
 
 ## What is this?
 
